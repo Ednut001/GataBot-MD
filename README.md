@@ -9,12 +9,6 @@
 
 <p align="center">
 <a href="#"><img title="ARCH-MD" src="https://img.shields.io/badge/DONT FORGET TO LEAVE A STAR 🌟 ¡THANKS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-<img src="" height="28px">
-</p>  
-
-<p align="center">
-<a href="#"><img title="ARCH-MD" 
-
 </p>
 
 <p align="center">   
