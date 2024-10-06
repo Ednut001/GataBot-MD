@@ -40,8 +40,7 @@
  
  how to input session id tutorial 👇
  
- <a href='https://youtu.be/_OrbTQmCljo?si=e6sptQCSxcdaJIcQ' target="_blank"><img alt='TUTORIAL' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
- 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/_OrbTQmCljo?si=e6sptQCSxcdaJIcQ)
  
 ### 🟣 ARCH MD ON HEROKU 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ednut001/Arch-Md-Heroku) 
@@ -62,19 +61,19 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 -----
 ### TUTORIAL VIA HEROKU
 
-[![Tutorial](https://www.herokucdn.com/deploy/button.svg)](https://youtube.com/@Ednuthimself) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself)
 
 ----- 
 ### ⏏️ **DEPLOY VIA KOYEB**
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Ednut001/Arch-MD&branch=master&name=Arch-md)
 
-[![Tutorial](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)]. (tutorial soon) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself) (tutorial soon) 
 ------------------
 ### ☁️ DEPLOY ON RENDER
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FEdnut001-Li%2FArch-MD)
 
 ------------------
-[![Tutorial](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)]. (tutorial soon) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself). (tutorial soon) 
 
 
 
