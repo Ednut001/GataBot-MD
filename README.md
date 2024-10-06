@@ -25,6 +25,8 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Ednut001)
 </div>
 
+## [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VamspnPB4hdUnvLaIX17) 
+
 #### SETUP
 
 1. Fork the repo
@@ -37,7 +39,9 @@
      <a href='https://ednut-pair-code.onrender.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
  
  how to input session id tutorial 👇
-    <a href='https://youtu.be/_OrbTQmCljo?si=e6sptQCSxcdaJIcQ' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+ 
+ 
+    <a href='https://youtu.be/_OrbTQmCljo?si=e6sptQCSxcdaJIcQ' target="_blank"><img alt='TUTORIAL' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
  
  
 ### 🟣 ARCH MD ON HEROKU 
@@ -65,17 +69,13 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ### ⏏️ **DEPLOY VIA KOYEB**
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Ednut001/Arch-MD&branch=master&name=Arch-md)
 
-[![Tutorial](https://www.herokucdn.com/deploy/button.svg)](tutorial soon) 
+[![Tutorial](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)]. (tutorial soon) 
 ------------------
 ### ☁️ DEPLOY ON RENDER
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FEdnut001-Li%2FArch-MD)
 
 ------------------
-[![Tutorial](https://www.herokucdn.com/deploy/button.svg)](tutorial soon) 
+[![Tutorial](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)]. (tutorial soon) 
 
-### 🌟 CONTRIBUTORS
-<a href="https://github.com/Ednut001/Arch-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Ednut001/Arch-MD" /> 
-</a>
 
-> Copyright (c) 2024 **[Arch-Md](https://github.com/Ednut001/Arch-MD/blob/main/LICENSE)**.
+
