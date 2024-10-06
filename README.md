@@ -25,7 +25,7 @@
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Ednut001)
 </div>
 
-## [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VamspnPB4hdUnvLaIX17) 
+## [![Channel](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VamspnPB4hdUnvLaIX17) 
 
 #### SETUP
 
@@ -36,12 +36,11 @@
 2. Get Session ID 
    > if not generating code please use the second one or scan method
     
-     <a href='https://ednut-pair-code.onrender.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+ <a href='https://ednut-pair-code.onrender.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
  
  how to input session id tutorial 👇
  
- 
-    <a href='https://youtu.be/_OrbTQmCljo?si=e6sptQCSxcdaJIcQ' target="_blank"><img alt='TUTORIAL' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+ <a href='https://youtu.be/_OrbTQmCljo?si=e6sptQCSxcdaJIcQ' target="_blank"><img alt='TUTORIAL' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
  
  
 ### 🟣 ARCH MD ON HEROKU 
