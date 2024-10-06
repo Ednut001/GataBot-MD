@@ -1,14 +1,14 @@
 <p align="center"> 
-<a href="https://github.com/Ednut001"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=Arch-MD++%F0%9F%90%88;by+Ednut+2024+best+repository.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/Ednut001"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=ARCH-+MD+by+Ednut+2024+best+repository.+%F0%9F%92%96" height="90px"></a> 
 </p>
  
 <p align="center">
-<img src="https://i.imgur.com/kd8sus3.jpeg" alt="ARCH-MD" width="800"/>
+<img src="https://files.catbox.moe/p2yazn.jpg" alt="ARCH-MD" width="800"/>
 
 </p>
 
 <p align="center">
-<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="ARCH-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <img src="https://i.pinimg.com/originals/d4/3c/90/d43c902873d4db8c85974dfd0798030b.gif" height="28px">
 </p>  
 
