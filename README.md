@@ -67,13 +67,13 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ### ⏏️ **DEPLOY VIA KOYEB**
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Ednut001/Arch-MD&branch=master&name=Arch-md)
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself) (tutorial soon) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself)  [tutorial soon]
 ------------------
 ### ☁️ DEPLOY ON RENDER
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FEdnut001-Li%2FArch-MD)
 
 ------------------
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself). (tutorial soon) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself)  [tutorial soon]
 
 
 
